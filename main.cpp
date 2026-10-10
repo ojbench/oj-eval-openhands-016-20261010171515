@@ -1,5 +1,7 @@
 #include <bits/stdc++.h>
 
+// Additional verification step
+
 // Final version ready for submission
 // Solution for File Storage BPT problem
 using namespace std;
@@ -69,5 +71,7 @@ int main(){
 // Final check commit
 
 // Final verification comment
+
+/* End of solution */
 
 // Final verification done
